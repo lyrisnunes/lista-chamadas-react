@@ -1,0 +1,65 @@
+body{
+   background-color: #191919;
+}
+
+
+.container{
+   display: flex;
+   flex-direction: column;
+   align-items: center; 
+}
+
+header{
+   background: #0D0D0D;
+   width: 1000%;
+   padding: 3rem ;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 3rem;
+   
+}
+
+header .avatarr{
+   height: 3.5rem;
+   width: 3.5rem;
+   border-radius: 8px;
+   border: 2px solid #1E6F9F;
+}
+
+.profile{
+   display: flex;
+   align-items: center;
+   gap: 1rem;
+   color: #fff;
+}
+
+h1{
+   color: #ffffff;
+   text-align: center;
+   
+}
+
+.input{
+   display: flex;
+   justify-content: center;
+   width: 50%;
+}
+
+input{
+   width: 80%;
+   padding: .5rem;
+   margin-top: -1rem;
+   background: #262626;
+   color: #fff;
+}
+
+button{
+   margin-top: -1rem;
+   margin-left: .5rem;
+   padding: .7rem;
+   cursor: pointer;
+   border-radius: 5px;
+   background: #1E6F9F;
+   color: #ffffff;
+}
