@@ -1,2 +1,4 @@
 
-## A aplicação de chamada de alunos, desenvolvida em React, permite registrar a presença dos alunos de forma prática e eficiente
+# A aplicação de chamada de alunos, desenvolvida em React, permite registrar a presença dos alunos de forma prática e eficiente
+
+Neste projeto, pude consolidar todos os meus conhecimentos em React, incluindo a estrutura de pastas para uma organização eficiente, o uso de Fragments para evitar elementos adicionais desnecessários no DOM, a importação de arquivos CSS para estilização, a passagem de propriedades entre componentes, a manipulação de estado e a importância da imutabilidade dos dados. Também aprofundei meu conhecimento na utilização da propriedade "key" para otimizar o desempenho ao renderizar listas de elementos, explorei os Hooks, como o useEffect para lidar com efeitos colaterais e a execução de tarefas assíncronas. Além disso, aprendi como consumir dados de uma API e utilizei o useEffect em conjunto com async/await para lidar com chamadas assíncronas. 
